@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+    "build_systems": [
+        {
+            "name": "Javac",
+            "working_dir": "${project_path}",
+            "shell_cmd": "build.cmd"
+        }
+    ]
+}
